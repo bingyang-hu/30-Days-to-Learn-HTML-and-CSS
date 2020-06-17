@@ -5,7 +5,7 @@
 
 <p><h4>My study plan</h4>
 <ul>
-<li> Take at least three parts per day and finish it by the end of January </li>
+<li> Take at least three parts per day and finish it  </li>
 <li> Try best to write as much as possible and memorize the basic language</li>
 <li> Uoload the code to Github<li>
 </ul>
